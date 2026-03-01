@@ -70,6 +70,7 @@ We are a **hosting company** building reliable, high-performance infrastructure 
 | Repository | Description |
 |:-----------|:------------|
 | 🔸 [**lava-whmcs-gateway-module**](https://github.com/apexnodes-developers/lava-whmcs-gateway-module) | Lava payment gateway integration module for WHMCS |
+| 🔸 [**6in4-tunnel-manual**](https://github.com/apexnodes-developers/6in4-tunnel-manual) | A comprehensive, step-by-step manual for building your own 6in4 |
 
 > _More projects coming soon — stay tuned!_ ⭐
 
